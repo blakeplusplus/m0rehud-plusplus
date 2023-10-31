@@ -169,7 +169,7 @@
 		"ypos"										"0"
 		"zpos"										"2"
 		"wide"										"f0"
-		"tall"										"15"
+		"tall"										"20"
 		"visible"									"1"
 		"enabled"									"1"
 
@@ -275,7 +275,7 @@
 				"xpos"								"0"
 				"ypos"								"0"
 				"zpos"								"4"
-				"wide"								"f0"
+				"wide"								"o1.88"
 				"tall"								"f0"
 				"visible"							"1"
 				"enabled"							"1"
