@@ -1713,7 +1713,7 @@
 			"1"
 			{
 				"name"										"Surface-UberIcons"
-				"tall"										"11"
+				"tall"										"26"
 				"antialias"									"1"
 				"dropshadow"								"1"
 			}
@@ -1723,7 +1723,7 @@
 			"1"
 			{
 				"name"										"Surface-UberIcons"
-				"tall"										"10"
+				"tall"										"26"
 				"antialias"									"1"
 				"dropshadow"								"1"
 			}
