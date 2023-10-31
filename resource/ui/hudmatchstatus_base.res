@@ -232,11 +232,11 @@
 				"xpos"								"cs-0.5"
 				"ypos"								"0"
 				"zpos"								"5"
-				"wide"								"o1"
+				"wide"								"o.85"
 				"tall"								"f0"
 				"visible"							"1"
 				"enabled"							"1"
-				"image"								"../hud/class_scoutred"
+				"image"								"../vgui/class_portraits_scoutblue"
 				"scaleImage"						"1"
 				"proportionaltoparent"				"1"
 			}
